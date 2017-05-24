@@ -1,0 +1,8 @@
+.max-background, .precios-background{
+  background-color: #64b5f6;
+  background-image: url("../images/wavecut.png");
+}
+
+.precios-background {
+  background-color: #42a5f5
+}
