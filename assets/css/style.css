@@ -1,3 +1,7 @@
+.intro-background{
+  background-image: url("../images/pool.jpg");
+  height: 100%;
+}
 .max-background, .precios-background{
   background-color: #64b5f6;
   background-image: url("../images/wavecut.png");
